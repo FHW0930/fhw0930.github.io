@@ -22,7 +22,7 @@
 ### Future plans
 #### Algebraic geomytry
 #### K-theory
-
+#### Algebraic curve
 ### Awards
 #### Rubic's cube
 #### Maths
