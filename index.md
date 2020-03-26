@@ -13,11 +13,6 @@
   </tr>
 </table>
 
-### Personal information
-#### Name: Haowei Fan(樊浩玮)
-#### Education: Tongji University
-#### Email: fanhaowei0930@tongji.edu.cn
-#### Address: No.1239, Road.Siping, Shanghai
 
 ### Some notes
 #### Algebraic topology
